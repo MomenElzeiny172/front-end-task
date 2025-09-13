@@ -1,3 +1,8 @@
+## Demo
+
+[[Demo Video]](https://drive.google.com/file/d/1NJ2YI2EIB1KKHpaA-6CwjjyfVOByoft6/view)
+
+
 # Next.js File Explorer Interview Task
 
 This repository contains a partially implemented file explorer built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. Data is stored in memory on the server.
